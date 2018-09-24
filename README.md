@@ -1,10 +1,18 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+<ol>
+    <li>Me</li>
+    <li>Myself</li>
+    <li>And I</li>
+</ol>
 
 ## What it does
 
-FEATURES PLACEHOLDER
+<ol>
+    <li>This</li>
+    <li>That</li>
+    <li>And the Other</li>
+</ol>
 
 ## Getting started
 
